@@ -1,0 +1,10 @@
+ PRIMERA CLASE
+INSTALAR LAS HERRAMIENTAS, SIGUIENTES 4 PROGRAMAS:
+GIT-GITHUB-VISUALSTUDIOCODE-NODEJS-
+INICIAR SESION EN LAS DISTINTAS HERRAMIENTAS Y CONECTARLAS. 
+GIT: es un sistema de control de versiones que ayuda a los programadores web a realizar un seguimiento de los cambios en el código, colaborar con otros desarrolladores y revertir a versiones anteriores si es necesario. Es fundamental para mantener la integridad y la coherencia de los proyectos de desarrollo de software.
+GITHUB: es una plataforma en línea que utiliza Git para alojar proyectos de desarrollo de software, permitiendo a los programadores web colaborar, compartir código y gestionar el desarrollo de software de manera eficiente.
+VISUALSTUDIOCODE: es un editor de código fuente ligero y altamente personalizable desarrollado por Microsoft. Es ampliamente utilizado por programadores web y desarrolladores de software debido a su interfaz intuitiva, su amplia gama de extensiones y su potente funcionalidad de edición de código. Visual Studio Code es compatible con una variedad de lenguajes de programación y ofrece características como resaltado de sintaxis, autocompletado inteligente, depuración integrada, control de versiones y una amplia gama de herramientas de productividad.
+NODEJS: es un entorno que trabaja en tiempo de ejecución, de código abierto, multi-plataforma, que permite a los desarrolladores crear toda clase de herramientas de lado servidor y aplicaciones en JavaScript.
+SEGUNDA CLASE
+PRACTICANDO Y CONOCIENDO GIT Y GITHUB
