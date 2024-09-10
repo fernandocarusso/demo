@@ -1,0 +1,41 @@
+{
+    margin: 0;
+    padding: 0;
+
+}
+
+h1 {
+   text-align: center ;
+    background-color: blue;
+    color: white;
+       
+    /*relleno hacia arriba*/
+    padding-top: 20px;
+    padding-top: 20px;
+    /*relleno hacia abajo*/
+    padding-bottom: 30px;
+/*relleno iquierdo*/
+padding-left: 40px;
+
+/*relleno derecho*/   
+padding-right: 50px;
+}
+
+p {
+    background-color: blueviolet;
+    /*margen hacia arriba*/
+    margin-top: 100px;
+
+    /*margen hacia abajo*/
+margin-bottom: 50px;
+
+/*margen izquierdo*/
+margin-left: 70px;
+}
+    div {
+        border: inset 5px brown;
+        width: 200px;
+        padding: 20px;
+        box-sizing: border-box;
+}
+       
